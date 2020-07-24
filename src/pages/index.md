@@ -7,18 +7,7 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Jeet Kune Do
   description: >
-  Jeet Kune Do (JKD) is the worlds most wanted Martial Art today. Jeet
-Kune Do was founded by the legendary Martial artist Bruce Lee & it
-represents his martial art, philosophy and way of life. The Jeet Kune Do
-Ideology is our understanding of jeet Kune Do. In India, JKD is under
-tutelage of the authors Dr's Rao. They are full instructors under Sifu
-Richard Bustillo, the Iron Dragon of JKD, one of Bruce Lee's prominent
-original students, also a founding member of Bruce Lee Foundation & one
-who along with Dan Inosanto, opened up the IMB academy, the first JKD
-School to open after Lee's passing away. Despite his small size, (5 feet 7 inch & 57 kgs) Lee proved that in fighting, SIZE is not everything & by scientific technic, one can knock down a
-heavier, taller & aggressive man. His revolutionary principles of fighting
-and the deep philosophical approach form the basis of now world famous
-JKD.
+  Jeet Kune Do (JKD) is the worlds most wanted Martial Art today. Jeet Kune Do was founded by the legendary Martial artist Bruce Lee & it represents his martial art, philosophy and way of life. The Jeet Kune Do Ideology is our understanding of jeet Kune Do. In India, JKD is under tutelage of the authors Dr's Rao. They are full instructors under Sifu Richard Bustillo, the Iron Dragon of JKD, one of Bruce Lee's prominent original students, also a founding member of Bruce Lee Foundation & one who along with Dan Inosanto, opened up the IMB academy, the first JKD School to open after Lee's passing away. Despite his small size, (5 feet 7 inch & 57 kgs) Lee proved that in fighting, SIZE is not everything & by scientific technic, one can knock down a heavier, taller & aggressive man. His revolutionary principles of fighting and the deep philosophical approach form the basis of now world famous JKD.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
